@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>杨峻：数学100分</h1>
+    <h1>二蛋：数学100分</h1>
   </div>
 </template>
 
