@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>杨峻：数学100分</h1>
   </div>
 </template>
 
